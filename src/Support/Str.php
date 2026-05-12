@@ -19,6 +19,6 @@ class Str
             return '';
         }
 
-        return substr($fullString, strpos($fullString, $character) + 1);
+        return substr($fullString, strpos($fullString, $character) + strlen($character));
     }
 }
