@@ -135,3 +135,4 @@ Spatie is a webdesign agency in Antwerp, Belgium. You'll find an overview of all
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+
